@@ -1,5 +1,0 @@
-name = "magazine-sites"
-compatibility_date = "2025-12-04"
-
-[assets]
-directory = "./"
