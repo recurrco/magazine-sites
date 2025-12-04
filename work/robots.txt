@@ -1,0 +1,8 @@
+User-agent: *
+Sitemap: https://ghost-production-8f29.up.railway.app/sitemap.xml
+Disallow: /ghost/
+Disallow: /email/
+Disallow: /members/api/comments/counts/
+Disallow: /r/
+Disallow: /webmentions/receive/
+Disallow: /.ghost/analytics/api/
